@@ -1,0 +1,34 @@
+{
+  "formato": 1,
+  "versoes": [
+    {
+      "versao": "2026.11.24",
+      "data": "24/11/2026",
+      "commit": "1fc3ea4",
+      "notas": "Primeira versao instalavel do Big Bang: entrada em tres bases (Fiscal, Contribuicoes, ECD/Razao), instalador sem Python e atualizacao automatica com escolha de versao anterior.",
+      "runtime": "py3.13.14-4d11c7b8",
+      "retirada": false,
+      "codigo": {
+        "arquivo": "BigBang_2026.11.24.zip",
+        "url": "https://github.com/luizeocunha-spec/big-bang-versoes/releases/download/v2026.11.24/BigBang_2026.11.24.zip",
+        "sha256": "9d219226a70773946ec622bbc226484ada182dec7889b736da0811f32d492bde",
+        "tamanho": 802781
+      }
+    }
+  ],
+  "runtimes": {
+    "py3.13.14-4d11c7b8": {
+      "arquivo": "BigBang_python_py3.13.14-4d11c7b8.zip",
+      "url": "https://github.com/luizeocunha-spec/big-bang-versoes/releases/download/v2026.11.24/BigBang_python_py3.13.14-4d11c7b8.zip",
+      "sha256": "6240ce7eb461ed6b094dce9f3c697fc1c5e2713260005610defd50ad1874a524",
+      "tamanho": 113816866
+    }
+  },
+  "instalador": {
+    "versao": "2026.11.24",
+    "arquivo": "BigBang_Setup_2026.11.24.exe",
+    "url": "https://github.com/luizeocunha-spec/big-bang-versoes/releases/download/v2026.11.24/BigBang_Setup_2026.11.24.exe",
+    "sha256": "1af3a017b03190c30ee991dcac5b4b9730daf28cf91a8e6ea7f32c343d854df6",
+    "tamanho": 75671629
+  }
+}
