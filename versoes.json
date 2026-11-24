@@ -28,6 +28,20 @@
         "sha256": "c659f2557a9f5cdec670928da8a1f48a5e546dd83d5fe1e90f43050c86806405",
         "tamanho": 802834
       }
+    },
+    {
+      "versao": "2026.11.24.3",
+      "data": "24/11/2026",
+      "commit": "1a2fa59",
+      "notas": "Cada arquivo passa a ser do tipo da base em que foi escolhido (o nome nao conta mais). O que nao der para ler aparece numa janela com o problema: Cancelar ou Prosseguir sem eles. DCTF/DARF/patrimonio nao entram mais. TXT com BOM passa a ser lido.",
+      "runtime": "py3.13.14-4d11c7b8",
+      "retirada": false,
+      "codigo": {
+        "arquivo": "BigBang_2026.11.24.3.zip",
+        "url": "https://github.com/luizeocunha-spec/big-bang-versoes/releases/download/v2026.11.24.3/BigBang_2026.11.24.3.zip",
+        "sha256": "c51920d59e584b1b9e1340c0dd8d9af67fe6f4927308de53a23740f365513a87",
+        "tamanho": 802745
+      }
     }
   ],
   "runtimes": {
@@ -39,10 +53,10 @@
     }
   },
   "instalador": {
-    "versao": "2026.11.24.2",
-    "arquivo": "BigBang_Setup_2026.11.24.2.exe",
-    "url": "https://github.com/luizeocunha-spec/big-bang-versoes/releases/download/v2026.11.24.2/BigBang_Setup_2026.11.24.2.exe",
-    "sha256": "62b1194d3fa3f69aefd87ce00f738178bc42b957bbd60ed6b04e3c7f1fb44972",
-    "tamanho": 75671593
+    "versao": "2026.11.24.3",
+    "arquivo": "BigBang_Setup_2026.11.24.3.exe",
+    "url": "https://github.com/luizeocunha-spec/big-bang-versoes/releases/download/v2026.11.24.3/BigBang_Setup_2026.11.24.3.exe",
+    "sha256": "f2064a7390d1767364f7e3d56480f32fb21b88f85b8215d06b2104236230a7bb",
+    "tamanho": 75671185
   }
 }
