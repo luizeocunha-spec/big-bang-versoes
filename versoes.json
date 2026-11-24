@@ -14,6 +14,20 @@
         "sha256": "9d219226a70773946ec622bbc226484ada182dec7889b736da0811f32d492bde",
         "tamanho": 802781
       }
+    },
+    {
+      "versao": "2026.11.24.2",
+      "data": "24/11/2026",
+      "commit": "9bfd0e2",
+      "notas": "Tela principal com um botao Escolher para cada base (Fiscal, Contribuicoes, ECD/Razao). Cancelar mantem o que ja estava escolhido; o x esvazia a base.",
+      "runtime": "py3.13.14-4d11c7b8",
+      "retirada": false,
+      "codigo": {
+        "arquivo": "BigBang_2026.11.24.2.zip",
+        "url": "https://github.com/luizeocunha-spec/big-bang-versoes/releases/download/v2026.11.24.2/BigBang_2026.11.24.2.zip",
+        "sha256": "c659f2557a9f5cdec670928da8a1f48a5e546dd83d5fe1e90f43050c86806405",
+        "tamanho": 802834
+      }
     }
   ],
   "runtimes": {
@@ -25,10 +39,10 @@
     }
   },
   "instalador": {
-    "versao": "2026.11.24",
-    "arquivo": "BigBang_Setup_2026.11.24.exe",
-    "url": "https://github.com/luizeocunha-spec/big-bang-versoes/releases/download/v2026.11.24/BigBang_Setup_2026.11.24.exe",
-    "sha256": "1af3a017b03190c30ee991dcac5b4b9730daf28cf91a8e6ea7f32c343d854df6",
-    "tamanho": 75671629
+    "versao": "2026.11.24.2",
+    "arquivo": "BigBang_Setup_2026.11.24.2.exe",
+    "url": "https://github.com/luizeocunha-spec/big-bang-versoes/releases/download/v2026.11.24.2/BigBang_Setup_2026.11.24.2.exe",
+    "sha256": "62b1194d3fa3f69aefd87ce00f738178bc42b957bbd60ed6b04e3c7f1fb44972",
+    "tamanho": 75671593
   }
 }
